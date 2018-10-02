@@ -1,4 +1,4 @@
 public class One {
-    String name = "By!";
+    String name = "Buy!";
     int k = 15;
 }
